@@ -7,7 +7,6 @@
 - 🥅 My goal for finishing out 2023 is being professionally certified for project management and also creating more in depth programming projects
 - 👨‍💼 Please check out my LinkedIn for more of my professional profile!
 
-<br />
 
 ### Connect With Me:
 [<img align = "left" alt = "LinkedIn" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png"/>][linkedin]
