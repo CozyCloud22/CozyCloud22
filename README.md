@@ -14,7 +14,7 @@
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png"/>
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png"/>
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-256.png"/>
-<img align = "left" alt = "Python" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png"/>
+<img align = "left" alt = "Python" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/web-basics-vol-05/512/data_database_mysql_server_sql_storage-256.png"/>
 
 
 
