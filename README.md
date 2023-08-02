@@ -9,7 +9,8 @@
 
 ### Connect With Me:
 [<img align = "left" alt = "LinkedIn" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png"/>][linkedin]
-[<img align = "left" alt = "LinkedIn" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"/>][gmail]
+[<img align = "left" alt = "Gmail" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"/>][gmail]
+[<img align = "left" alt = "Outlook" width = "26px" src = "https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png"/>][outlook]
 
 <br />
 <br />
@@ -24,8 +25,13 @@
 
 <br />
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/CozyCloud22)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/CozyCloud22)
+
 # Thank you for checking out my Github!
  謝謝恁來看我的 Github!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
+[outlook]: mailto:chendarr@msu.edu
