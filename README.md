@@ -31,9 +31,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozyCloud22&layout=compact)](https://github.com/CozyCloud22)
 
-Thank you for checking my GitHub out!
+🦅Thank you for checking my GitHub out!
 <br />
-謝謝你來看我的 GitHub!
+🐰謝謝你來看我的 GitHub!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
