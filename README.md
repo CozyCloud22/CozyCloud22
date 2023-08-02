@@ -34,7 +34,7 @@
 
 Thank you for checking my GitHub out!
 <br />
-謝謝恁來看我的 GitHub!
+謝謝你來看我的 GitHub!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
