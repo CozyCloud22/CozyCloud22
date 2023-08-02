@@ -3,7 +3,7 @@
 ## I'm a student student, programmer, and new hobby enthusiast!
 - 🐍 I'm currently working on better understanding Python and applying it to niches I'm interested in
 - 📝 I'm a student who is majoring in computer science and minoring in general business and Chinese
-- ⭐ I'm looking for any collaboration or internship oppurtunities as well
+- ⭐ I'm looking for any collaboration or **internship** oppurtunities as well
 - 🥅 My goal for finishing out 2023 is being professionally certified for project management and also creating more in depth programming projects
 - 👨‍💼 Please check out my LinkedIn for more of my professional profile!
 
@@ -31,9 +31,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozyCloud22&layout=compact)](https://github.com/CozyCloud22)
 
-🦅Thank you for checking my GitHub out!
+~🦅Thank you for checking my GitHub out!
 <br />
-🐰謝謝你來看我的 GitHub!
+~🐰謝謝你來看我的 GitHub!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
