@@ -9,6 +9,10 @@
 
 ### Languages and Tools:
 [<img align = "left" alt = "Python" width = "26px" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png"/>]
+[<img align = "left" alt = "Python" width = "26px" src = "https://cdn0.iconfinder.com/data/icons/programming-1-1/32/Programming_C-3-256.png"/>]
+[<img align = "left" alt = "Python" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"/>]
+
+
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
