@@ -13,7 +13,7 @@
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"/>
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png"/>
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png"/>
-<img align = "left" alt = "Python" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-256.png"/>
+<img align = "left" alt = "Python" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-256.png"/>
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png"/>
 
 
