@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Darrian 
 
 ## I'm a student student, programmer, and new hobby enthusiast!
-- I'm currently working on better understanding Python and applying it to niches I'm interested in
-- I'm a student who is majoring in computer science and minoring in general business and Chinese
-- I'm looking for any collaboration or internship oppurtunities as well
-- My goal for finishing out 2023 is being professionally certified for project management and also creating more in depth programming projects
-- Please check out my LinkedIn for more of my professional profile!
+- 🐍 I'm currently working on better understanding Python and applying it to niches I'm interested in
+- 📝 I'm a student who is majoring in computer science and minoring in general business and Chinese
+- ⭐ I'm looking for any collaboration or internship oppurtunities as well
+- 🥅 My goal for finishing out 2023 is being professionally certified for project management and also creating more in depth programming projects
+- 👨‍💼 Please check out my LinkedIn for more of my professional profile!
 
 ### Connect With Me:
 [<img align = "left" alt = "LinkedIn" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png"/>][linkedin]
@@ -25,7 +25,7 @@
 <br />
 
 # Thank you for checking out my Github!
-# 謝謝恁來看我的 Github!
+ 謝謝恁來看我的 Github!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
