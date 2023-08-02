@@ -7,6 +7,8 @@
 - 🥅 My goal for finishing out 2023 is being professionally certified for project management and also creating more in depth programming projects
 - 👨‍💼 Please check out my LinkedIn for more of my professional profile!
 
+<br />
+
 ### Connect With Me:
 [<img align = "left" alt = "LinkedIn" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png"/>][linkedin]
 [<img align = "left" alt = "Gmail" width = "26px" src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"/>][gmail]
@@ -24,13 +26,13 @@
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png"/>
 
 <br />
+<br />
 
 ### Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozyCloud22&layout=compact)](https://github.com/CozyCloud22)
 
-# Thank you for checking out my Github!
- 謝謝恁來看我的 Github!
+Thank you for!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
