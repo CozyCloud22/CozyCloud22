@@ -25,7 +25,6 @@
 
 <br />
 
-[![CozyCloud’s github stats](https://github-readme-stats.vercel.app/api?username=CozyCloud22)](https://github.com/CozyCloud22)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozyCloud22&layout=compact)](https://github.com/CozyCloud22)
 
