@@ -22,8 +22,8 @@
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png"/>
 <img align = "left" alt = "Python" width = "26px" src = "https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png"/>
 
-Thank you for checking out my Github!
-謝謝恁來看我的 Github!
+# Thank you for checking out my Github!
+# 謝謝恁來看我的 Github!
 
 [linkedin]: https://www.linkedin.com/in/darrianchen/
 [gmail]: mailto:DCbankai888@gmail.com
