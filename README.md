@@ -25,9 +25,9 @@
 
 <br />
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/CozyCloud22)
+[![CozyCloud’s github stats](https://github-readme-stats.vercel.app/api?username=CozyCloud22)](https://github.com/CozyCloud22)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/CozyCloud22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CozyCloud22&layout=compact)](https://github.com/CozyCloud22)
 
 # Thank you for checking out my Github!
  謝謝恁來看我的 Github!
